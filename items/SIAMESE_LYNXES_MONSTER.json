@@ -26,6 +26,22 @@
     "§8[§6Griffin§8]: §5Antique Remedies",
     "§8[§6Griffin§8]: §6Crown of Greed",
     "",
+  "itemid": "minecraft:spawn_egg",
+  "displayname": "§3Siamese Lynxes(Mythological Creature)",
+  "nbttag": "{display:{Lore:[0:\"§7Siamese Lynxes also known as Bagheera and Azrael\",1:\"§7ingame are the second most common mobs found in\",2:\"§7the Mythological Ritual. Their health scales\",3:\"§7depending on the rarity of your Griffin Pet. You\",4:\"§7have to hit the lynxes one at a time the correct\",5:\"§7one being indicated by angry villager particles.\",6:\"§7Using a weapon that does AoE damage such as the\",7:\"§7Bonzo Staff Dreadlord Sword or Aspect of the\",8:\"§7Dragons or has an ability that can hit both at\",9:\"§7the same time is a good strategy.\",10:\"\",11:\"§a§lUNCOMMON\"],Name:\"§3Siamese Lynxes (Mythological Creature)\"},ExtraAttributes:{id:\"SIAMESE_LYNXES_MONSTER\"}}",
+  "damage": 98,
+  "lore": [
+    "§7Siamese Lynxes also known as Bagheera and Azrael",
+	"§7ingame are the second most common mobs found in",
+    "§7the Mythological Ritual. Their health scales",
+	"§7depending on the rarity of your Griffin Pet. You",
+    "§7have to hit the lynxes one at a time the correct",
+	"§7one being indicated by angry villager particles.",
+    "§7Using a weapon that does AoE damage such as the",
+	"§7Bonzo Staff Dreadlord Sword or Aspect of the",
+    "§7Dragons or has an ability that can hit both at",
+	"§7the same time is a good strategy.",
+	"",
     "§a§lUNCOMMON"
   ],
   "internalname": "SIAMESE_LYNXES_MONSTER",
@@ -35,5 +51,6 @@
   "info": [
     "https://hypixel-skyblock.fandom.com/wiki/Siamese_Lynxes"
   ],
+  "entityrender": "Ozelot",
   "crafttext": ""
 }
